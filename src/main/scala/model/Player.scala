@@ -1,7 +1,5 @@
 package model
 
-import java.awt.Choice
-
 import scala.util.Random
 
 trait Player {
