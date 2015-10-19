@@ -6,6 +6,5 @@ CI Tests running via TravisCI
 
 Project is built and tested via SBT
 
-* sbt build 
-* sbt test
-* sbt assembly
+* sbt test - to run the test suite
+* sbt assembly - to build a jar with dependencies
